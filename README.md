@@ -6,8 +6,6 @@ Download and install Node.js form their official website
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
 npm init 
 
