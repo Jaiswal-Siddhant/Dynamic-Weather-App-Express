@@ -1,7 +1,5 @@
 # Dynamic-Weather-App-Express
 
-# Project Title
-
 Dynamic Weather app using Express JS and Leaflet 
 
 ## Getting Started
